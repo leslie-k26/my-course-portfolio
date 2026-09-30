@@ -6,7 +6,7 @@ Welcome to my academic portfolio for CEP146!
 - Name: Leslie Nguyen
 - Major: Computer Programming & Analysis (CPA)
 - Year: 2026
-- Favorite Programming Language: C
+- Favorite Programming Language: C, Python
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
